@@ -1,0 +1,21 @@
+Main character is about 5.5 feet or 150 pixels
+
+27.24026274303030303030303030303 pixels in a foot
+143828.5872832 pixels in a mile
+
+10 depth = 1 mile
+1 depth = .1 mile
+10 depth = 5280 feet
+1 depth = 528.0 feet
+.1 depth = 52.80 feet
+.01 depth = 5.280 feet
+.001 depth = .5280 feet
+0.00189393939393939393939393939394 = 1 foot
+0.00189393939393939393939393939394 = 27.24026274303030303030303030303 pixels
+
+
+
+
+textures can be 4096 pixels high (Texture2D)
+
+Depth layer ratio to screen position ok at 4096 pixel height with .005depth variance.
