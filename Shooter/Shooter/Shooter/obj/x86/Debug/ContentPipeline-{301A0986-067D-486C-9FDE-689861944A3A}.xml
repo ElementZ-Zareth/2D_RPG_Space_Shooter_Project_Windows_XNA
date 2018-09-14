@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>mainbackground.png</Source>
+      <Name>mainbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mainbackground.xnb</Output>
+      <Time>2012-06-02T17:48:13.776794-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mouse.png</Source>
+      <Name>mouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mouse.xnb</Output>
+      <Time>2012-06-23T21:55:25.7048796-07:00</Time>
+    </Item>
+    <Item>
+      <Source>slimeprojectile.png</Source>
+      <Name>slimeprojectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\slimeprojectile.xnb</Output>
+      <Time>2012-06-29T15:41:37.1397884-07:00</Time>
+    </Item>
+    <Item>
+      <Source>screenoverlay.png</Source>
+      <Name>screenoverlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\screenoverlay.xnb</Output>
+      <Time>2012-05-21T20:32:40.4027867-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Icons\Blank.png</Source>
+      <Name>UI\Icons\Blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\Icons\Blank.xnb</Output>
+      <Time>2012-05-24T13:55:09.2849728-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Icons\Charge.png</Source>
+      <Name>UI\Icons\Charge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\Icons\Charge.xnb</Output>
+      <Time>2012-05-24T13:54:11.7106797-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Icons\Scatter.png</Source>
+      <Name>UI\Icons\Scatter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\Icons\Scatter.xnb</Output>
+      <Time>2012-05-24T13:54:23.1533342-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Icons\Straight.png</Source>
+      <Name>UI\Icons\Straight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\Icons\Straight.xnb</Output>
+      <Time>2012-05-24T13:54:38.2861997-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Icons\Wave.png</Source>
+      <Name>UI\Icons\Wave</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\Icons\Wave.xnb</Output>
+      <Time>2012-05-24T13:53:54.2066785-07:00</Time>
+    </Item>
+    <Item>
+      <Source>playerprojectile3.png</Source>
+      <Name>playerprojectile3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\playerprojectile3.xnb</Output>
+      <Time>2012-06-02T14:22:06.9894543-07:00</Time>
+    </Item>
+    <Item>
+      <Source>backgroundScroll.png</Source>
+      <Name>backgroundScroll</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\backgroundScroll.xnb</Output>
+      <Time>2012-06-02T16:14:43.2228887-07:00</Time>
+    </Item>
+    <Item>
+      <Source>AvatarSprite.png</Source>
+      <Name>AvatarSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\AvatarSprite.xnb</Output>
+      <Time>2012-06-02T19:58:12.8558758-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteSheet.png</Source>
+      <Name>SpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\SpriteSheet.xnb</Output>
+      <Time>2010-08-10T11:03:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Star.png</Source>
+      <Name>Star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Star.xnb</Output>
+      <Time>2012-06-06T23:27:18.0970601-07:00</Time>
+    </Item>
+    <Item>
+      <Source>BallShooter.png</Source>
+      <Name>BallShooter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\BallShooter.xnb</Output>
+      <Time>2012-06-07T16:30:00.607795-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\User\hpBar.png</Source>
+      <Name>UI\User\hpBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\User\hpBar.xnb</Output>
+      <Time>2012-06-08T14:28:41.1772327-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\EnergyMeter.png</Source>
+      <Name>UI\EnergyMeter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\EnergyMeter.xnb</Output>
+      <Time>2012-06-23T17:30:01.4710655-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\HealthMeter.png</Source>
+      <Name>UI\HealthMeter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\HealthMeter.xnb</Output>
+      <Time>2012-06-23T17:29:49.7443948-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\ShieldMeter.png</Source>
+      <Name>UI\ShieldMeter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\ShieldMeter.xnb</Output>
+      <Time>2012-06-23T17:30:12.5767007-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shooter.png</Source>
+      <Name>Shooter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Shooter.xnb</Output>
+      <Time>2012-06-12T16:27:06.8062511-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ShotFireAnimation 2.png</Source>
+      <Name>ShotFireAnimation 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\ShotFireAnimation 2.xnb</Output>
+      <Time>2012-06-18T23:00:33.0312619-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shield.png</Source>
+      <Name>Shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Shield.xnb</Output>
+      <Time>2012-06-17T16:56:14.6322356-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\BottomBar.png</Source>
+      <Name>UI\BottomBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\BottomBar.xnb</Output>
+      <Time>2012-06-23T18:47:26.9127696-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\MeterBack.png</Source>
+      <Name>UI\MeterBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\MeterBack.xnb</Output>
+      <Time>2012-06-23T17:29:21.8958019-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Enemy1.png</Source>
+      <Name>Enemies\Enemy1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Enemies\Enemy1.xnb</Output>
+      <Time>2012-06-29T14:36:56.0007999-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Enemy1Explosion.png</Source>
+      <Name>Enemies\Enemy1Explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Enemies\Enemy1Explosion.xnb</Output>
+      <Time>2012-06-29T15:24:27.8679174-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\innermouse.png</Source>
+      <Name>UI\innermouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\innermouse.xnb</Output>
+      <Time>2012-06-29T16:24:22.1274973-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\outermouse.png</Source>
+      <Name>UI\outermouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\outermouse.xnb</Output>
+      <Time>2012-06-29T16:40:14.8849919-07:00</Time>
+    </Item>
+    <Item>
+      <Source>firstplanet.png</Source>
+      <Name>firstplanet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\firstplanet.xnb</Output>
+      <Time>2012-07-01T10:43:18.7774496-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SideWall.png</Source>
+      <Name>SideWall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\SideWall.xnb</Output>
+      <Time>2012-07-12T22:41:22.8986444-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\menuMusic.mp3</Source>
+      <Name>Sound\menuMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.xnb</Output>
+      <Extra>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.wma</Extra>
+      <Time>2012-03-19T15:11:01.5180652-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\gMusic.mp3</Source>
+      <Name>Sound\gMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gMusic.xnb</Output>
+      <Extra>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gMusic.wma</Extra>
+      <Time>2012-04-04T02:30:20.4354017-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Collidescope.mp3</Source>
+      <Name>Sound\Collidescope</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\Collidescope.xnb</Output>
+      <Extra>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\Collidescope.wma</Extra>
+      <Time>2012-07-06T17:20:59.8322105-07:00</Time>
+    </Item>
+    <Item>
+      <Source>gameFont.spritefont</Source>
+      <Name>gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\gameFont.xnb</Output>
+      <Time>2012-05-10T19:07:01.1988117-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\laserFire.wav</Source>
+      <Name>Sound\laserFire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\laserFire.xnb</Output>
+      <Time>2012-04-27T15:22:11.4569065-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\slimedie.wav</Source>
+      <Name>Sound\slimedie</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\slimedie.xnb</Output>
+      <Time>2012-04-27T15:26:22.2912534-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\charge.wav</Source>
+      <Name>Sound\charge</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\charge.xnb</Output>
+      <Time>2012-06-10T22:53:35.9509996-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{301A0986-067D-486C-9FDE-689861944A3A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\ShooterContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T15:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T15:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-04T21:49:18.445929-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

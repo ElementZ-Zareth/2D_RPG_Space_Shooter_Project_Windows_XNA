@@ -1,0 +1,116 @@
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\bgLayer1.xnb
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\bgLayer2.xnb
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\endMenu.xnb
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\explosion.xnb
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\laser.xnb
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mainbackground.xnb
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mainMenu.xnb
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mine.xnb
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mineAnimation.xnb
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\player.xnb
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\shipAnimation.xnb
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\explosion.xnb
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\laserFire.xnb
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gameMusic.xnb
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.xnb
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gameMusic.wma
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.wma
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.exe
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.pdb
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.exe
+C:\Users\The Paladin Skye\Downloads\Shooter_Project_Windows\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.pdb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mainbackground.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\laserFire.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.wma
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.exe
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.pdb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.exe
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.pdb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\slimedie.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gMusic.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gMusic.wma
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mouse.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\slimeprojectile.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\screenoverlay.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\Icons\Blank.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\Icons\Charge.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\Icons\Scatter.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\Icons\Straight.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\Icons\Wave.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\playerprojectile3.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\backgroundScroll.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\AvatarSprite.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\SpriteSheet.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Star.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\BallShooter.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\User\hpBar.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\EnergyMeter.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\HealthMeter.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\ShieldMeter.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\charge.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Shooter.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\ShotFireAnimation 2.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Shield.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\BottomBar.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\MeterBack.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Enemies\Enemy1.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Enemies\Enemy1Explosion.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\innermouse.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\outermouse.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\Collidescope.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\firstplanet.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\Collidescope.wma
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\SideWall.xnb
+C:\Users\The Paladin Skye\Desktop\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.csprojResolveAssemblyReference.cache
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mainbackground.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mouse.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\slimeprojectile.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\screenoverlay.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\Icons\Blank.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\Icons\Charge.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\Icons\Scatter.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\Icons\Straight.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\Icons\Wave.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\playerprojectile3.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\backgroundScroll.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\AvatarSprite.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\SpriteSheet.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Star.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\BallShooter.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\User\hpBar.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\EnergyMeter.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\HealthMeter.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\ShieldMeter.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Shooter.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\ShotFireAnimation 2.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Shield.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\BottomBar.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\MeterBack.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Enemies\Enemy1.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Enemies\Enemy1Explosion.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\innermouse.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\UI\outermouse.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\firstplanet.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\SideWall.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gMusic.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\Collidescope.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\gameFont.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\laserFire.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\slimedie.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\charge.xnb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.wma
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gMusic.wma
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\Collidescope.wma
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.exe
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.pdb
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.csprojResolveAssemblyReference.cache
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.exe
+D:\Game Development\Shooter_Project_Windows\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.pdb
